@@ -1,6 +1,6 @@
-.idea
+.idea/
 goguerrilla.conf
 goguerrilla.conf.json
-/guerrillad
-vendor
+guerrillad/
+vendor/
 go-guerrilla.wiki
