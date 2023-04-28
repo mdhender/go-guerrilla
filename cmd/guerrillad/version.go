@@ -2,8 +2,6 @@ package main
 
 import (
 	"github.com/spf13/cobra"
-
-	"github.com/flashmob/go-guerrilla"
 )
 
 var versionCmd = &cobra.Command{
